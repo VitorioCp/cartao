@@ -1,0 +1,65 @@
+body{
+    background-color:hsl(217, 54%, 11%) ;
+    
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px ;
+  }
+  
+  .box .dentro_caixa {
+    width: 250px;
+    height: 400px;
+    background-color:hsl(216, 50%, 16%) ;
+    border-radius:15px;
+  }
+  .imagem{
+    margin-left: 35px;
+    margin-top: 20px;
+  }
+  h3{
+    color: white;
+    margin-left: 35px;
+
+  }
+  
+  p{
+    color: gray;
+    margin-left: 35px;
+  }
+
+  .cript{
+    margin-top: -10px;
+    margin-left: 35px;
+    color: aqua;
+    float: left;
+  }
+
+  .relogio{
+  float: right;
+  margin-top: -10px;
+  margin-right:10px ; 
+  color: gray;
+  }
+
+  hr{
+    width: 210px;
+  }
+  .imagem_avatar{
+    margin-left: 15px;
+  }
+  .imagem_avatar p{
+    color: gray;
+    margin-top: -25px;
+  }
+
+  .imagem_avatar p .p_white{
+    color: white;
+  }
+  
+  b{
+    color: white;
+    font-weight:lighter;
+  }
